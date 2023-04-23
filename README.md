@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **angular and expanding my knowledge more on smart contracts.**
 - 💬 Ask me about **react and solidity.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
