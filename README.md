@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muaadhhd&label=Profile%20views&color=0e75b6&style=flat" alt="muaadhhd" /> </p>
 
-- 🌱 I’m currently learning **angular and expanding my knowledge more on smart contracts.**
+- 🌱 I’m currently learning **rust and expanding my knowledge more on smart contracts.**
 - 💬 Ask me about **react and solidity.**
 
 <p align="left">
